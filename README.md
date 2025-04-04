@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+🔭 I’m currently working on Shanghai
+🌱 I’m currently learning How to run fast(doge
+
 <!--
 **HuaDongChen/HuaDongChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
